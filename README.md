@@ -2,7 +2,12 @@
 A comprehensive implementation of vision-language instruction tuning following CLIP training procedures with two-stage training methodology and extensive ablation studies.
 
 
-You can read the full experimental paper of this project as a part of study ablation on : [📄 AUTHOR PAPER](https://drive.google.com/drive/search?q=Laporan%20NLP)
+You can read the full experimental paper of this project as a part of study ablation on : [📄 AUTHOR PAPER]([https://drive.google.com/drive/search?q=Laporan%20NLP](https://drive.google.com/file/d/1jxY_rsAO2VfTHD-GnGLG5YKOZCGumRGN/view?usp=sharing))
+
+## Research Paper References :
+[Visual Instructional Tuning by LLava](https://arxiv.org/abs/2304.08485)
+[TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance](https://arxiv.org/abs/2309.12314)
+[Dense Connector for MLLMs](https://arxiv.org/abs/2405.13800)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Architecture](#architecture)
